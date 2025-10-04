@@ -1,0 +1,8 @@
+class cfgFunctions {
+#include "scripts\Reeveli_fnc\Reevelis_fnc.hpp"										// Omat
+};
+
+class CfgSounds
+{	
+	#include "scripts\Reeveli_fnc\Rev_medical\sounds\heal_sounds.hpp"
+};
